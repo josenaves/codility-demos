@@ -23,6 +23,7 @@ public class MissingInteger {
     //    A[3] = 4
     //    A[4] = 1
     //    A[5] = 2
+    //
     //    the function should return 5.
     //
     //    Assume that:
@@ -55,27 +56,82 @@ public class MissingInteger {
         solution = new MissingInteger().solution(A);
         System.out.println("Solution is " + solution);
 
+        A = new int[]{-4, -5, -6, -2};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+        A = new int[]{2,3};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+        A = new int[]{1,5};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+        A = new int[]{1,2};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
         A = new int[]{1};
         solution = new MissingInteger().solution(A);
         System.out.println("Solution is " + solution);
+
+        A = new int[]{2};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+        A = new int[]{1,2,2,3,4,5,6,7,8};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+        A = new int[]{Integer.MAX_VALUE};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
+
+        A = new int[]{Integer.MIN_VALUE, Integer.MAX_VALUE};
+        solution = new MissingInteger().solution(A);
+        System.out.println("Solution is " + solution);
+
     }
 
     public int solution(int[] A) {
-        int max = 0;
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+
         Set<Integer> presence = new HashSet<>();
         for (int elem : A) {
             if (elem > 0) {
                 presence.add(elem);
+                if (min > elem) min = elem;
                 if (max < elem) max = elem;
             }
         }
 
-        for (int i = 1; i < max; i++) {
-            if (!presence.contains(i)) {
-                return i;
+        System.out.println(String.format("min [%d] max [%d] presence.size [%d]", min, max, presence.size()));
+        int number = -1;
+
+        if (presence.isEmpty()) {
+            // case 1 - all negative numbers or zero (presence is empty)
+            number = 1;
+        }
+        else if (presence.size() == 1) {
+            // case 2 - just one element in presence set (positive)
+            int elem = presence.iterator().next();
+            number = elem == 1 ? 2 : 1;
+        }
+        else {
+            // case 3 - 2 or more elements in presence set (all positive)
+            for (int i = 1; i <= max; i++) {
+                if (!presence.contains(i)) {
+                    number = i;
+                    break;
+                }
+                number = max + 1;
             }
         }
-        return 0;
+
+        return number;
     }
 
 }
