@@ -2,42 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b06562-08f2-4b57-9f42-34decc9391af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.josenaves.algorithms.MissingIntegerTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css/base-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/js/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/packages/com.josenaves.algorithms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.josenaves.algorithms.MissingIntegerTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/MissingIntegerTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/codility-challenges/com/josenaves/algorithms/MissingInteger.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/josenaves/algorithms/MissingInteger.java" afterPath="$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/MissingInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.josenaves.algorithms.PermCheckTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/PermCheckTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/TEST-com.josenaves.algorithms.MissingIntegerTest.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/com.josenaves.algorithms.MissingIntegerTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.josenaves.algorithms.PermCheckTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.7/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codility-challenges.iml" afterPath="$PROJECT_DIR$/codility-challenges.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/css/base-style.css" afterPath="$PROJECT_DIR$/build/reports/tests/css/base-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/js/report.js" afterPath="$PROJECT_DIR$/build/reports/tests/js/report.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/packages/com.josenaves.algorithms.html" afterPath="$PROJECT_DIR$/build/reports/tests/packages/com.josenaves.algorithms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -72,59 +54,34 @@
     <favorites_list name="codility-challenges" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MissingInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/MissingInteger.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PermCheck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.059800666">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermCheckTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/PermCheckTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MissingIntegerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/MissingIntegerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19269103">
-              <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#1367#1368#0" expanded="true" />
-                <element signature="e#1437#1438#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#1573#1574#0" expanded="true" />
-                <element signature="e#1621#1622#0" expanded="true" />
-                <element signature="e#1707#1708#0" expanded="true" />
-                <element signature="e#1755#1756#0" expanded="true" />
-                <element signature="e#1841#1842#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -394,6 +351,8 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/MissingInteger.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/MissingIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/PermCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java" />
       </list>
     </option>
   </component>
@@ -467,6 +426,18 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.josenaves.algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -494,20 +465,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codility-challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codility-challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -525,17 +482,20 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.josenaves.algorithms" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.josenaves.algorithms" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.testExtremes">
-    <configuration default="false" name="testOneNumberOne" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.PermCheckTest">
+    <configuration default="false" name="PermCheckTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.MissingIntegerTest.testOneNumberOne&quot;" />
+        <option name="scriptParameters" value="--tests com.josenaves.algorithms.PermCheckTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -549,12 +509,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="testSeveralNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="testMediumSequence2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.MissingIntegerTest.testSeveralNumbers&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.PermCheckTest.testMediumSequence2&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -568,12 +528,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="testOneNumberMin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="testMediumSequence3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.MissingIntegerTest.testOneNumberMin&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.PermCheckTest.testMediumSequence3&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -587,12 +547,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="testOneNumberMax" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="testLargeSequence" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.MissingIntegerTest.testOneNumberMax&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.PermCheckTest.testLargeSequence&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -606,12 +566,12 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="testExtremes" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="testSample1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.MissingIntegerTest.testExtremes&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.josenaves.algorithms.PermCheckTest.testSample1&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -811,19 +771,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.testOneNumberOne" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.testSeveralNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.testOneNumberMin" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.testOneNumberMax" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.testExtremes" />
+      <item index="0" class="java.lang.String" itemvalue="Gradle.PermCheckTest" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.testMediumSequence2" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.testMediumSequence3" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.testLargeSequence" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.testSample1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.testExtremes" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.testOneNumberMax" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.testOneNumberMin" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.testSeveralNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.testOneNumberOne" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.PermCheckTest" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.testSample1" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.testLargeSequence" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.testMediumSequence3" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.testMediumSequence2" />
       </list>
     </recent_temporary>
   </component>
@@ -841,35 +801,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MissingIntegerTest - 2015.10.30 at 11h 21m 16s.xml">
-      <configuration name="MissingIntegerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="PermCheckTest - 2015.10.30 at 16h 07m 12s.xml">
+      <configuration name="PermCheckTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testExtremes - 2015.10.30 at 11h 26m 32s.xml">
-      <configuration name="testExtremes" configurationId="GradleRunConfiguration" />
+    <history-entry file="PermCheckTest - 2015.10.30 at 16h 08m 52s.xml">
+      <configuration name="PermCheckTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberMax - 2015.10.30 at 11h 24m 35s.xml">
-      <configuration name="testOneNumberMax" configurationId="GradleRunConfiguration" />
+    <history-entry file="PermCheckTest - 2015.10.30 at 16h 16m 14s.xml">
+      <configuration name="PermCheckTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberMin - 2015.10.30 at 11h 24m 07s.xml">
-      <configuration name="testOneNumberMin" configurationId="GradleRunConfiguration" />
+    <history-entry file="PermCheckTest - 2015.10.30 at 16h 24m 44s.xml">
+      <configuration name="PermCheckTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberOne - 2015.10.30 at 11h 22m 19s.xml">
-      <configuration name="testOneNumberOne" configurationId="GradleRunConfiguration" />
+    <history-entry file="testLargeSequence - 2015.10.30 at 15h 48m 30s.xml">
+      <configuration name="testLargeSequence" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberOne - 2015.10.30 at 11h 22m 32s.xml">
-      <configuration name="testOneNumberOne" configurationId="GradleRunConfiguration" />
+    <history-entry file="testLargeSequence - 2015.10.30 at 15h 50m 20s.xml">
+      <configuration name="testLargeSequence" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberTwo - 2015.10.30 at 11h 21m 52s.xml">
-      <configuration name="testOneNumberTwo" configurationId="GradleRunConfiguration" />
+    <history-entry file="testSample1 - 2015.10.30 at 16h 13m 16s.xml">
+      <configuration name="testSample1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testOneNumberTwo - 2015.10.30 at 11h 21m 59s.xml">
-      <configuration name="testOneNumberTwo" configurationId="GradleRunConfiguration" />
+    <history-entry file="testSample1 - 2015.10.30 at 16h 13m 46s.xml">
+      <configuration name="testSample1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testSeveralNumbers - 2015.10.30 at 11h 23m 28s.xml">
-      <configuration name="testSeveralNumbers" configurationId="GradleRunConfiguration" />
+    <history-entry file="testSample1 - 2015.10.30 at 16h 16m 08s.xml">
+      <configuration name="testSample1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testTwoNumbersThree - 2015.10.30 at 11h 21m 00s.xml">
-      <configuration name="testTwoNumbersThree" configurationId="GradleRunConfiguration" />
+    <history-entry file="testSample1 - 2015.10.30 at 16h 24m 39s.xml">
+      <configuration name="testSample1" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -877,25 +837,25 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978677" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -910,10 +870,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/MissingInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/MissingIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -932,34 +930,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/MissingIntegerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19269103">
-          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
             <element signature="e#1367#1368#0" expanded="true" />
             <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1573#1574#0" expanded="true" />
-            <element signature="e#1621#1622#0" expanded="true" />
-            <element signature="e#1707#1708#0" expanded="true" />
-            <element signature="e#1755#1756#0" expanded="true" />
-            <element signature="e#1841#1842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.8.2/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36567163">
+          <caret line="243" column="5" selection-start-line="243" selection-start-column="5" selection-end-line="243" selection-end-column="5" />
+          <folding>
+            <element signature="e#6903#6997#0" expanded="false" />
+            <element signature="e#6996#6997#0" expanded="false" />
+            <element signature="e#7127#7230#0" expanded="false" />
+            <element signature="e#7229#7230#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.8.2/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33208954">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.8.2/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47014925">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1088" column="29" selection-start-line="1088" selection-start-column="29" selection-end-line="1088" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.josenaves.algorithms/PermCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/josenaves/algorithms/PermCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059800666">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
