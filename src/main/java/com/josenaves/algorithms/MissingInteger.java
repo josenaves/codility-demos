@@ -39,62 +39,6 @@ public class MissingInteger {
     //    Elements of input arrays can be modified.
     //
 
-    public static void main(String[] args) {
-	    int A[] = {1, 3, 6, 4, 1, 2};
-        int solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{1, 3, 6, 4, 1, 2, 5, 10, 9, 7};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{-1, 3, 6, 4, 1, 2, 5, 10, 9, 7};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{4, 5, 6, 2};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{-4, -5, -6, -2};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{2,3};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{1,5};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{1,2};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{1};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{2};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{1,2,2,3,4,5,6,7,8};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-        A = new int[]{Integer.MAX_VALUE};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-
-        A = new int[]{Integer.MIN_VALUE, Integer.MAX_VALUE};
-        solution = new MissingInteger().solution(A);
-        System.out.println("Solution is " + solution);
-
-    }
-
     public int solution(int[] A) {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
