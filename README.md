@@ -1,4 +1,6 @@
 # codility-demos
-My Codility's solutions
 
-MissingInteger
+My own solutions for Codility's problems
+
+- MissingInteger
+- PermCheck

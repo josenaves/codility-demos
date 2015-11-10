@@ -1,8 +1,8 @@
 package com.josenaves.algorithms;
 
 import java.math.BigInteger;
-import java.util.HashSet;
 import java.util.Set;
+import java.util.HashSet;
 
 public class PermCheck {
 
@@ -79,11 +79,6 @@ public class PermCheck {
         }
 
         return sum.equals(actualSum )? 1 : 0;
-
-        // Errors:
-        // - sum is correct but it is not a permutation
-        // - large permutation but one element occurs 3 times
-        // - large sequence 1..N
     }
 
     private BigInteger sum(long size) {
