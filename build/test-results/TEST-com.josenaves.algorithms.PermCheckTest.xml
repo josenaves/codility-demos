@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.josenaves.algorithms.PermCheckTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2015-11-10T01:04:57" hostname="hellbata" time="0.067">
+<testsuite name="com.josenaves.algorithms.PermCheckTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2015-11-10T01:10:43" hostname="hellbata" time="0.094">
   <properties/>
-  <testcase name="testRepeatable" classname="com.josenaves.algorithms.PermCheckTest" time="0.004"/>
-  <testcase name="testMediumSequence" classname="com.josenaves.algorithms.PermCheckTest" time="0.002"/>
-  <testcase name="testLargeSequence" classname="com.josenaves.algorithms.PermCheckTest" time="0.046"/>
-  <testcase name="testThreeTimes" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
-  <testcase name="testMediumSequence2" classname="com.josenaves.algorithms.PermCheckTest" time="0.002"/>
-  <testcase name="testSample2" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
-  <testcase name="testMediumSequence3" classname="com.josenaves.algorithms.PermCheckTest" time="0.004"/>
+  <testcase name="testLargeSequence" classname="com.josenaves.algorithms.PermCheckTest" time="0.07"/>
   <testcase name="testSample1" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
+  <testcase name="testThreeTimes" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
+  <testcase name="testMediumSequence3" classname="com.josenaves.algorithms.PermCheckTest" time="0.005"/>
+  <testcase name="testMediumSequence2" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
   <testcase name="testSmallSequence" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
-  <testcase name="testSample3" classname="com.josenaves.algorithms.PermCheckTest" time="0.0"/>
+  <testcase name="testMediumSequence" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
+  <testcase name="testSample2" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
+  <testcase name="testRepeatable" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
+  <testcase name="testSample3" classname="com.josenaves.algorithms.PermCheckTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
